@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play videogames, and basketball! 🤣
 
+---
+
+### Music: Now Playing🎧
+- Coming Soon!
+
 ### Connect with me:
 
 [<img align="left" alt="https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][website]
@@ -24,6 +29,8 @@
 
 <br />
 <br />
+
+---
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
