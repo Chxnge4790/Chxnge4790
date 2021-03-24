@@ -20,9 +20,14 @@
 [<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />]
 [<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />]
+[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />]
 
 <br />
 <br />
+
+### 📺 Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
 [discord]: https://discord.com/invite/NwhTn79nKX
