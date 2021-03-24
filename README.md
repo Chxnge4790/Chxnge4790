@@ -27,6 +27,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [testing webhook](https://www.youtube.com/watch?v=-Eg7YMdRX9k)
+- [How to purchase roblox exploits from executor shop! | CHEAP ROBLOX EXPLOITS 2021](https://www.youtube.com/watch?v=tNA_4zhHtU8)
+- [How to download roblox exploits from executor shop! | FREE 2021](https://www.youtube.com/watch?v=StrHcJMaoTU)
+- [How to make a leveling system with xp  I  Discord Bot Studio](https://www.youtube.com/watch?v=Dx3pldWsKmA)
+- [How To Add A Role When User Joins  I  Discord Bot Studio](https://www.youtube.com/watch?v=GFCEAz9Ce4c)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
