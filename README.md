@@ -7,8 +7,8 @@
 
 ---
 
-### Music: Now Playing🎧
-[![Spotify](https://chxnge4790.vercel.app/api/spotify)](https://open.spotify.com/user/jz4uop25gh1nthki14qtjvegy)
+### Music
+- 🎧 I enjoy listening to mainly rappers like, polo g, lil baby, king von, ddg, nle choppa, rod wawe, lil tjay and many more!
 
 ### Connect with me:
 
