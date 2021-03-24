@@ -8,7 +8,7 @@
 ---
 
 ### Music: Now Playing🎧
-[<img src="https://novatorem1-chxnge4790.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+[![Spotify](https://chxnge4790.vercel.app/api/spotify)](https://open.spotify.com/user/jz4uop25gh1nthki14qtjvegy)
 
 ### Connect with me:
 
