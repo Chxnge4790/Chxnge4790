@@ -8,7 +8,7 @@
 ---
 
 ### Music: Now Playing🎧
-- Coming Soon!
+[![Spotify](https://chxnge4790.vercel.app/api/spotify)](https://open.spotify.com/user/jz4uop25gh1nthki14qtjvegy)
 
 ### Connect with me:
 
