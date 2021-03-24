@@ -34,7 +34,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [testing webhook](https://www.youtube.com/watch?v=-Eg7YMdRX9k)
+- [#1 | Code Your Own Discord Bot - Basics | Discord.JS Series | 2021](https://www.youtube.com/watch?v=-DktAcuxsfs)
 - [How to purchase roblox exploits from executor shop! | CHEAP ROBLOX EXPLOITS 2021](https://www.youtube.com/watch?v=tNA_4zhHtU8)
 - [How to download roblox exploits from executor shop! | FREE 2021](https://www.youtube.com/watch?v=StrHcJMaoTU)
 - [How to make a leveling system with xp  I  Discord Bot Studio](https://www.youtube.com/watch?v=Dx3pldWsKmA)
