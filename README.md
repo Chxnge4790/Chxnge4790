@@ -3,7 +3,7 @@
 ## I'm a Student, Brother, Developer, and Basketball Player!
 - 🔭 I just launched my own custom [Executor Shop!][discord]
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play videogames, and basketball! 🤣
+- ⚡ Fun fact: I love to play videogames, write code, and play basketball! 🤣
 
 ---
 
