@@ -33,11 +33,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [#4 | Code Your Own Discord Bot - Verify System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=B-TV6hFtJRA)
 - [My VS Code Setup For 2021! | Extensions, Theme, ETC.](https://www.youtube.com/watch?v=6KZW-I9SgqM)
 - [#3 | Code Your Own Discord Bot - Secure Token | Discord.JS Series | 2021](https://www.youtube.com/watch?v=8HFJMHfVO9E)
 - [#2 | How To Make Command Handler + First Commands | Discord.JS Series | 2021](https://www.youtube.com/watch?v=JvBejOLbxqw)
 - [#1 | Code Your Own Discord Bot - Basics | Discord.JS Series | 2021](https://www.youtube.com/watch?v=-DktAcuxsfs)
-- [How to purchase roblox exploits from executor shop! | CHEAP ROBLOX EXPLOITS 2021](https://www.youtube.com/watch?v=tNA_4zhHtU8)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
