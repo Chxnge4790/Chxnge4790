@@ -2,7 +2,7 @@
 
 ## I'm a Student, Brother, Developer, and Basketball Player!
 - 🔭 I just launched my own custom [Executor Shop!][discord]
-- 🌐 Working on a website!
+- 🌐 Check out my very own [website!][chxnge]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play videogames, write code, and play basketball! 🤣
 - 🎧 I enjoy listening to mainly rappers like, polo g, lil baby, king von, ddg, nle choppa, rod wawe, lil tjay and many more!
@@ -42,3 +42,4 @@
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
 [discord]: https://discord.com/invite/NwhTn79nKX
+[chxnge]: https://chxnge.tk
