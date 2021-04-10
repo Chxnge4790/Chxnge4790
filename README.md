@@ -33,11 +33,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [#7 | Code Your Own Discord Bot - Advanced Suggestion System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=Q04HqEMU1uY)
 - [#6 | Code Your Own Discord Bot - Kick & Ban | Discord.JS Series | 2021](https://www.youtube.com/watch?v=amfW9WraKT8)
 - [#5 | Code Your Own Discord Bot - Ticket System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=vLyjy1B1UnA)
 - [#4 | Code Your Own Discord Bot - Verify System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=B-TV6hFtJRA)
 - [My VS Code Setup For 2021! | Extensions, Theme, ETC.](https://www.youtube.com/watch?v=6KZW-I9SgqM)
-- [#3 | Code Your Own Discord Bot - Secure Token | Discord.JS Series | 2021](https://www.youtube.com/watch?v=8HFJMHfVO9E)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
