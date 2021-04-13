@@ -5,7 +5,7 @@
 - 🌐 Check out my very own [website!][chxnge]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play videogames, write code, and play basketball! 🤣
-- 🎧 I enjoy listening to mainly rappers like, polo g, lil baby, king von, ddg, nle choppa, rod wawe, lil tjay and many more!
+- 🎧 I enjoy listening to mainly rappers like, polo g, lil baby, king von, ddg, nle choppa, rod wave, lil tjay and many more!
 
 ---
 
