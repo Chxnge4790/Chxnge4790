@@ -1,7 +1,7 @@
 ### Hi there, I'm Ismet - aka [Chxnge][website]
 
 ## I'm a Student, Brother, Developer, and Basketball Player!
-- 🔭 I just launched my own custom [Executor Shop!][discord]
+- 🔭 Check out my [Chxnge Development Discord Server!][discord]
 - 🌐 Check out my very own [website!][chxnge]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play videogames, write code, and play basketball! 🤣
@@ -41,5 +41,5 @@
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
-[discord]: https://discord.com/invite/NwhTn79nKX
+[discord]: https://discord.com/invite/EXsKttjHGv
 [chxnge]: https://chxnge.tk
