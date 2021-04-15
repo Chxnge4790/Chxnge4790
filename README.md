@@ -33,11 +33,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [#9 | Code Your Own Discord Bot - Custom Bot Status | Discord.JS Series | 2021](https://www.youtube.com/watch?v=u1jtjG5C6wY)
 - [#8 | Code Your Own Discord Bot - Help Command With Pages | Discord.JS Series | 2021](https://www.youtube.com/watch?v=O_v0y9Vtoqw)
 - [#7 | Code Your Own Discord Bot - Advanced Suggestion System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=Q04HqEMU1uY)
 - [#6 | Code Your Own Discord Bot - Kick & Ban | Discord.JS Series | 2021](https://www.youtube.com/watch?v=amfW9WraKT8)
 - [#5 | Code Your Own Discord Bot - Ticket System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=vLyjy1B1UnA)
-- [#4 | Code Your Own Discord Bot - Verify System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=B-TV6hFtJRA)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
