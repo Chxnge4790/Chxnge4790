@@ -33,7 +33,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [#10 | Connecting Discord Bot To Database - Connect To MongoDB | Discord.JS Series | 2021](https://www.youtube.com/watch?v=dQAssLhxkNA)
+- [#10 | Connecting Discord Bot To Database - MongoDB Setup | Discord.JS Series | 2021](https://www.youtube.com/watch?v=dQAssLhxkNA)
 - [#9 | Code Your Own Discord Bot - Custom Bot Status | Discord.JS Series | 2021](https://www.youtube.com/watch?v=u1jtjG5C6wY)
 - [#8 | Code Your Own Discord Bot - Help Command With Pages | Discord.JS Series | 2021](https://www.youtube.com/watch?v=O_v0y9Vtoqw)
 - [#7 | Code Your Own Discord Bot - Advanced Suggestion System | Discord.JS Series | 2021](https://www.youtube.com/watch?v=Q04HqEMU1uY)
