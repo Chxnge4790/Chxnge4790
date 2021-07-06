@@ -33,11 +33,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [#2 | Code Your Own Music Bot - Join, Leave, Skip, Remove, Shuffle | Discord.JS Series | 2021](https://www.youtube.com/watch?v=CfjBxy1K1-U)
 - [[NEW] How To Host Your Discord Bot for FREE 24/7! | EASY | 2021](https://www.youtube.com/watch?v=cSZkFN4fYPY)
 - [#1 | Code Your Own Music Bot - First Commands  | Discord.JS Series | 2021](https://www.youtube.com/watch?v=fctp5c4OKUs)
 - [#13 | Code Your Own Discord Bot - Advanced Command And Eventhandler | Discord.JS Series | 2021](https://www.youtube.com/watch?v=TqHslPE-nYQ)
 - [#12 | Code Your Own Discord Bot - Weather Command | Discord.JS Series | 2021](https://www.youtube.com/watch?v=sG9jPgb9NKE)
-- [#11 | Code Your Own Discord Bot - Per Server Prefix | Discord.JS Series | 2021](https://www.youtube.com/watch?v=0UtKO9rKxyA)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.youtube.com/channel/UCPEaJgSmjer00nbHH2HTC8A
